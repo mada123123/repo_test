@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeometricalFigure>
+	<NoOfSides>3</NoOfSides>
+	<SidesList>
+		<SideLength>1</SideLength>
+		<SideLength>2</SideLength>
+		<SideLength>5</SideLength>
+	</SidesList>
+</GeometricalFigure>
